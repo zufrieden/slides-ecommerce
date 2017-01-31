@@ -1,13 +1,16 @@
 # Cours sur l'eCommerce - SAWI - Marc Friederich
 
+### Sommaire
 
-## Introduction
+- Introduction
+- Business Model
+- Produit et mise en place
+- Gestion
+- Lancement et promotion
+- Exercice pratique
 
 ### Définition
 > Le commerce électronique ou vente en ligne, désigne l'échange de biens et de services entre deux entités sur les réseaux informatiques, notamment Internet.
-
-## Exercice pratique
-
 
 ## Sources
 
